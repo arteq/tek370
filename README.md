@@ -1,2 +1,2 @@
 # tek370
-Tektronix 370B, GPIB interface
+Read data from Tektronix 370B via GPIB interface and save data to file.
